@@ -1,11 +1,19 @@
 ## Who am I?
-
-I’m a software developer and data scientist with expertise in designing mathematical
+I'm a software developer and data scientist with expertise in designing mathematical
 software and algorithms to solve complex scientific and business challenges. 
 I specialize in bridging the gap between theory and application, as well as creating 
-scalable solutions for real-world problems. 
+scalable solutions for real-world problems.
+
+<div align="center">
+<table>
+<tr>
+<td>
+
+<div align="center">
 
 ## I code with
+
+</div>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -18,6 +26,26 @@ scalable solutions for real-world problems.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
   <img width="12" />
+</div>
+
+</td>
+<td width="50">
+
+</td>
+<td>
+
+## Contact
+
+<a href="mailto:rngil@mailbox.org">
+  <img src="./assets/email.svg" height="40" alt="email icon" />
+</a>
+<a href="https://linkedin.com/in/reneegil">
+  <img src="./assets/linkedin.svg" height="40" alt="linkedin icon" />
+</a>
+
+</td>
+</tr>
+</table>
 </div>
 
 
