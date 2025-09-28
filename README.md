@@ -5,6 +5,36 @@ I specialize in bridging the gap between theory and application, as well as crea
 scalable solutions to real-world problems.
 
 ## I code with
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original-wordmark.svg" height="40" alt="julia logo" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo" /></td>
+  </tr>
+</table>
+
+## Contact
+<table>
+  <tr>
+    <td><a href="mailto:rngil@mailbox.org"><img src="./assets/email.svg" height="40" alt="email icon" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://linkedin.com/in/reneegil"><img src="./assets/linkedin.svg" height="40" alt="linkedin icon" /></a></td>
+  </tr>
+</table>
+
+
+## I code with
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
