@@ -19,16 +19,6 @@ scalable solutions to real-world problems.
   <img width="12" />
 </div>
 
-## Contact
-
-<a href="mailto:rngil@mailbox.org">
-  <img src="./assets/email.svg" height="40" alt="email icon" />
-</a>
-<a href="https://linkedin.com/in/reneegil">
-  <img src="./assets/linkedin.svg" height="40" alt="linkedin icon" />
-</a>
-
-
 ## Open source work/contributions
 
 ### <img src="./assets/moleculehub.png" height="30" alt="molecule hub logo"/> [MoleculeHub](https://github.com/MoleculeHub) - a collection of cheiminformatics tools in Julia
