@@ -23,4 +23,4 @@ scalable solutions to real-world problems.
 
 ### <img src="./assets/moleculehub.png" height="30" alt="molecule hub logo"/> [MoleculeHub](https://github.com/MoleculeHub) - a collection of cheiminformatics tools in Julia
 
-### <img src="./assets/luxjl.png" height="30" alt="molecule hub logo"/> [Lux.jl](https://github.com/LuxDL/Lux.jl) - Elegant and Performant Deep Learning
+<!-- ### <img src="./assets/luxjl.png" height="30" alt="molecule hub logo"/> [Lux.jl](https://github.com/LuxDL/Lux.jl) - Elegant and Performant Deep Learning -->
