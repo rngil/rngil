@@ -29,7 +29,7 @@ scalable solutions to real-world problems.
 </a>
 
 
-## Current open source work
+## Open source work/contributions
 
 ### <img src="./assets/moleculehub.png" height="30" alt="molecule hub logo"/> [MoleculeHub](https://github.com/MoleculeHub) - a collection of cheiminformatics tools in Julia
 
