@@ -4,16 +4,7 @@ software and algorithms to solve complex scientific and business challenges.
 I specialize in bridging the gap between theory and application, as well as creating 
 scalable solutions to real-world problems.
 
-<!-- <div align="center">
-<table style="width: 100%; table-layout: fixed;">
-<tr>
-<td>
-
-<div align="center"> -->
-
 ## I code with
-
-<!-- </div> -->
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -28,12 +19,6 @@ scalable solutions to real-world problems.
   <img width="12" />
 </div>
 
-<!-- </td>
-<td width="50">
-
-</td>
-<td> -->
-
 ## Contact
 
 <a href="mailto:rngil@mailbox.org">
@@ -42,11 +27,6 @@ scalable solutions to real-world problems.
 <a href="https://linkedin.com/in/reneegil">
   <img src="./assets/linkedin.svg" height="40" alt="linkedin icon" />
 </a>
-
-<!-- </td>
-</tr>
-</table>
-</div> -->
 
 
 ## Current open source work
