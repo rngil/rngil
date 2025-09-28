@@ -5,7 +5,7 @@ I specialize in bridging the gap between theory and application, as well as crea
 scalable solutions for real-world problems.
 
 <div align="center">
-<table>
+<table width="100%">
 <tr>
 <td>
 
