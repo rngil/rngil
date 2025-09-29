@@ -22,7 +22,7 @@ scalable solutions to real-world problems.
 
 ## Open source work/contributions
 
-### <img src="./assets/moleculehub.png" height="30" alt="molecule hub logo"/> [MoleculeHub](https://github.com/MoleculeHub) - a collection of cheminformatics tools in Julia
+### <img src="./assets/moleculehub.png" height="32" alt="molecule hub logo"/> [MoleculeHub](https://github.com/MoleculeHub) - a collection of cheminformatics tools in Julia
 
 ### <img src="./assets/datafort.png" height="25" alt="molecule hub logo"/> [DataFort (In Development)](https://github.com/MoleculeHub) - dataframes in Fortran
 
