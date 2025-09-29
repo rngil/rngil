@@ -20,7 +20,7 @@ scalable solutions to real-world problems.
   <img width="12" />
 </div>
 
-## Open source work/contributions
+## Open Source Work
 
 ### <img src="./assets/moleculehub.png" height="32" alt="molecule hub logo"/> [MoleculeHub](https://github.com/MoleculeHub) - a collection of cheminformatics tools in Julia
 
