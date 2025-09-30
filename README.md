@@ -1,5 +1,5 @@
 ## Who am I?
-I'm a software developer and data scientist with expertise in designing scientific 
+I'm a software developer and data scientist with expertise in designing numerical 
 software and algorithms to solve complex academic and business problems. 
 
 ## I code with
