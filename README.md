@@ -24,6 +24,6 @@ scalable solutions to real-world problems.
 
 ### <img src="./assets/moleculehub.png" height="32" alt="molecule hub logo"/> [MoleculeHub](https://github.com/MoleculeHub) - a collection of cheminformatics tools in Julia
 
-### <img src="./assets/datafort.png" height="25" alt="molecule hub logo"/> [DataFort (In Development)](https://github.com/rngil/DataFort) - dataframes in Fortran
+### <img src="./assets/datafort.png" height="25" alt="molecule hub logo"/> [DataFort](https://github.com/rngil/DataFort) - dataframes in Fortran
 
 <!-- ### <img src="./assets/luxjl.png" height="30" alt="molecule hub logo"/> [Lux.jl](https://github.com/LuxDL/Lux.jl) - Elegant and Performant Deep Learning -->
