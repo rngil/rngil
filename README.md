@@ -1,8 +1,6 @@
 ## Who am I?
-I'm a software developer and data scientist with expertise in designing mathematical
-software and algorithms to solve complex scientific and business challenges. 
-I specialize in bridging the gap between theory and application, as well as creating 
-scalable solutions to real-world problems.
+I'm a software developer and data scientist with expertise in designing scientific 
+software and algorithms to solve complex academic and business problems. 
 
 ## I code with
 
