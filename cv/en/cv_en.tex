@@ -5,12 +5,22 @@
 \usepackage[default]{sourcesanspro}
 \usepackage{xcolor}
 \usepackage{microtype}
+\usepackage{hyperref}
+\usepackage{fontawesome5}
 
 % Define Pages-like colors
 \definecolor{textgray}{HTML}{333333}
 \definecolor{headinggray}{HTML}{222222}
 \definecolor{accentgray}{HTML}{666666}
 \definecolor{accentblue}{HTML}{2C5F8D}
+
+% Hyperlink setup
+\hypersetup{
+    colorlinks=true,
+    linkcolor=accentblue,
+    urlcolor=accentblue,
+    citecolor=accentblue
+}
 
 \setlength{\parindent}{0pt}
 \color{textgray}
@@ -21,19 +31,24 @@
 \begin{document}
 \pagestyle{empty}
 
-\textbf{\Huge Renee Gil} \\[2pt]
-\noindent\rule{\textwidth}{0.05pt}\\[-1pt]
-{\color{accentgray}\small Email: renee.gil@mailbox.org \hfill Location: Ottawa, Canada \\
-Github: github.com/rngil}\\[-6pt]
-\noindent\rule{\textwidth}{0.1pt}
+\begin{center}
+    \textbf{\Huge Renee Gil} \\[8pt]
+    {\small
+    \faEnvelope\ \href{mailto:renee.gil@mailbox.org}{renee.gil@mailbox.org} \hspace{0.2in}
+    \faLinkedin\ \href{https://linkedin.com/in/yourprofile}{linkedin.com/in/yourprofile} \hspace{0.2in}
+    \faGithub\ \href{https://github.com/rngil}{github.com/rngil} \\[4pt]
+    \faMapMarker*\ Ottawa, Canada
+    }
+\end{center}
 
-\noindent\textcolor{accentblue}{\rule{3pt}{12pt}} {\color{headinggray}\textbf{\large EXPERIENCE}}
-\vspace*{0.1in}
+{\color{headinggray}\textbf{\large EXPERIENCE}}\\[-10pt]
+\noindent\textcolor{accentblue}{\rule{\textwidth}{1.5pt}}
+\vspace*{-0.15in}
 
 \textbf{Data Scientist} \hfill {\color{accentgray} May 2021 - Present}\\
 {\color{accentgray} Carleton University, Ottawa, ON}\\[4pt]
 \begin{itemize}[itemsep=0.1pt, topsep=0pt]
-    \item Develop data pipelines for generating, processing, and analyzing 1TB+ of data
+    \item Develop data pipelines fokj/r generating, processing, and analyzing 1TB+ of data
     \item Develop High Performance Computing (HPC) workflows for large-scale deep learning models
     \item Design and conduct workshops on applied data science to chemistry
 \end{itemize}
@@ -58,20 +73,20 @@ Github: github.com/rngil}\\[-6pt]
 \end{itemize}
 
 \vspace*{0.1in}
-\noindent\rule{\textwidth}{0.1pt}
 
-\noindent\textcolor{accentblue}{\rule{3pt}{12pt}} {\color{headinggray}\textbf{\large EDUCATION}}
-\vspace*{0.1in}
+{\color{headinggray}\textbf{\large EDUCATION}}\\[-10pt]
+\noindent\textcolor{accentblue}{\rule{\textwidth}{1.5pt}}
+\vspace*{-0.15in}
 
 \textbf{PhD in Chemistry} \hfill {\color{accentgray} May 2021 - Present}\\
 {\color{accentgray} Carleton University, Ottawa, ON}\\[4pt]
 Thesis: \textit{"Data-Driven Approaches in Covalent Drug Discovery"}
 
 \vspace*{0.1in}
-\noindent\rule{\textwidth}{0.1pt}
 
-\noindent\textcolor{accentblue}{\rule{3pt}{12pt}} {\color{headinggray}\textbf{\large OPEN SOURCE WORK}}
-\vspace*{0.1in}
+{\color{headinggray}\textbf{\large OPEN SOURCE WORK}}\\[-10pt]
+\noindent\textcolor{accentblue}{\rule{\textwidth}{1.5pt}}
+\vspace*{-0.15in}
 
 \textbf{Developer}\\
 {\color{accentgray} Google Summer of Code}\\[4pt]
