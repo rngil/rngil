@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1760097314 "/Users/vh/ReposPersonal/rngil/cv/en/cv_en.tex" "cv_en.pdf" "cv_en" 1760097315 0
-  "/Users/vh/ReposPersonal/rngil/cv/en/cv_en.tex" 1760097314 3964 c27a9d9bf049d843ca7a45ac8baa2de0 ""
+["pdflatex"] 1760097927 "/Users/vh/ReposPersonal/rngil/cv/en/cv_en.tex" "cv_en.pdf" "cv_en" 1760097927 0
+  "/Users/vh/ReposPersonal/rngil/cv/en/cv_en.tex" 1760097927 4568 bc40f7d2892eaa460d85a16e5a6b46b2 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1622837620 2920 d63721872b8c77041b88e51b8f7c291d ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1622837620 3042 0e2b14b9be7d01075a4c4591d5d1781b ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc" 1622837620 2906 e48aa7c95dea478a2e011bcb4f7878c9 ""
@@ -101,9 +101,9 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1695787909 4623355 b8cad38412faebe1ce5b780a45db67bd ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1695787824 7883456 96d3333baac51ea6250124560e6e7dd2 ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "cv_en.aux" 1760097315 554 e6f85c6f44bbe194532b4fa1fd8ca02c "pdflatex"
-  "cv_en.out" 1760097315 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "cv_en.tex" 1760097314 3964 c27a9d9bf049d843ca7a45ac8baa2de0 ""
+  "cv_en.aux" 1760097927 554 e6f85c6f44bbe194532b4fa1fd8ca02c "pdflatex"
+  "cv_en.out" 1760097927 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "cv_en.tex" 1760097927 4568 bc40f7d2892eaa460d85a16e5a6b46b2 ""
   (generated)
   "cv_en.aux"
   "cv_en.log"
