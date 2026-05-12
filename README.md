@@ -1,4 +1,6 @@
-## Hi there 👋
+## About me 
+
+https://rngil.github.io
 
 <!--
 **rngil/rngil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
